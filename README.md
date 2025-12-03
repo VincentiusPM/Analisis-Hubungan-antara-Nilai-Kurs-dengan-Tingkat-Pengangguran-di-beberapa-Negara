@@ -1,0 +1,3 @@
+# PIPELINE PENGERJAAN PROJECT ANALISIS HUBUNGAN ANTARA NILAI KURS DENGAN TINGKAT PENGANGGURAN DI BEBERAPA NEGARA
+Pada projek ini, proses pengolahan data dilakukan melalui beberapa tahapan data wrangling. Pipeline ini memastikan bahwa data yang digunakan telah bersih, konsisten, serta siap dianalisis untuk mengetahui hubungan antara variabel nilai kurs dan tingkat pengangguran. Berikut visualisasi tahapan lengkapnya:
+![image alt](https://github.com/VincentiusPM/Analisis-Hubungan-antara-Nilai-Kurs-dengan-Tingkat-Pengangguran-di-beberapa-Negara/blob/36de6a6362ce7075786e3963126520c69ce9d133/Dokumentasi%20Pipeline.png)
